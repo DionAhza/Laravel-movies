@@ -51,7 +51,7 @@
 ## 🛠️ Teknologi yang Digunakan
 - **Laravel** - Framework PHP untuk pengembangan aplikasi web.
 - **MySQL** - Sistem manajemen database relasional untuk menyimpan data film dan pengguna.
-- **Bootstrap** - Framework CSS untuk membuat desain responsif.
+- **Tailwind** - Framework CSS untuk membuat desain responsif.
 - **Blade** - Templating engine Laravel untuk pembuatan tampilan dinamis.
 - **JavaScript** - Untuk fitur interaktif dan dinamis pada aplikasi.
 
